@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "image": "https://staging.core-cms.bfi.digital/sites/default/files/2020-06/seven+samurai.jpg",
+      "filmtitle": "Seven Samurai (1954)",
+      "standfirst": "Farmers hire a band of samurai to defend them against marauding bandits in Kurosawa’s influential epic, a touchstone for action movies ever since.",
+      "player_cta": "Subscribe to watch on BFI Player",
+      "description": "<p>Strongly influenced by the poetic westerns of John Ford, Kurosawa’s story of farmers recruiting a motley troupe of samurai to help them fend off bandits in turn had a huge impact on subsequent westerns and action films – from Hollywood remake The Magnificent Seven (1961) onwards.</p>\r\n\r\n<p>The early section’s gathering together of the diversely talented fighters is a trope in action movies to this day, while the restrained use of slow-motion in the frenzied final faceoff has since been abused to far less subtle ends. Kurosawa expertly sustains the suspense over a lengthy duration, instilling the story with an almost Shakespearian grandeur.</p>\r\n\r\n<p>The director’s regular star Toshiro Mifune (here playing the wild-card seventh samurai) later played the lone, wandering ronin in Kurosawa’s Yojimbo (1961).</p>\r\n",
+      "cid_info": [
+        {
+          "year": "1954",
+          "running_time": 200,
+          "production_countries": "Japan",
+          "directed_by": "Akira Kurosawa",
+          "produced_by": "Sojiro Motoki",
+          "written_by": "Shinobu Hashimoto, Hideo Oguni, Akira Kurosawa",
+          "featuring": "Takashi Shimura, Toshiro Mifune, Seiji Miyaguchi"
+        }
+      ],
+      "breadcrumb": "Watch and discover / Sight and Sound / The Greatest Films of All Time / Seven Samurai",
+      "sight_and_sound": [
+        {
+          "sight_and_sound_logo": "https://www.bfi.org.uk/dist/server/3a7f3865ac295e3496159f0d167fb860.png",
+          "2022_critics_poll": "Ranked 20th in the 2022 critics' poll",
+          "2022_directors_poll": "Ranked joint 14th in the 2022 directors' poll"
+        }
+      ],
+      "related_articles": ""
+    }
+  ]
+}
